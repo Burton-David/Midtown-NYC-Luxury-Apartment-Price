@@ -11,4 +11,4 @@ Scraping websites for prices of competition.
 - [https://aro.nyc/availability/](Aro)
 - [https://www.mercedeshouseny.com/#availabilities](https://www.mercedeshouseny.com/#availabilities)
 # Progress 
-To protect some data sources I have added a cypher
+Working on external database for more sensitive data
