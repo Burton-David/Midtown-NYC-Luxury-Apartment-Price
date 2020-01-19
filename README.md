@@ -10,5 +10,8 @@ Scraping websites for prices of competition.
 - [https://www.rockrose.com/residential/property/410-west-53rd-street-midwest-court/](MidWest Court)
 - [https://aro.nyc/availability/](Aro)
 - [https://www.mercedeshouseny.com/#availabilities](https://www.mercedeshouseny.com/#availabilities)
-# Progress 
+
+# Progress
 Working on external database for more sensitive data
+
+Adding recommender system for potential clients.
